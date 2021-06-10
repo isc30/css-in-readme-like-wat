@@ -1,7 +1,5 @@
 <div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
+	<a onclick="javascript:void 0;" href="">
 		<img src="header.svg" width="800" height="400" alt="Click to see the source">
 	</a>
-	<br>
 </div>
